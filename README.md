@@ -43,10 +43,15 @@ This project covers:
 ## 📑 Analysis Performed
 
 ✔️ Average Sales per Country
+
 ✔️ Total Sales per Country
+
 ✔️ Largest Order per Country
+
 ✔️ Minimum Order per Country
+
 ✔️ Total Sales per Year
+
 ✔️ Best-selling Products (by Revenue & Quantity)
 
 ---
@@ -92,6 +97,7 @@ The following charts were created:
 ---
 
 ✨ Author: **Muhammad Mohsin** (BS Software Engineering Student, Sir Syed CASE Institute of Technology, Islamabad)
+
 🔗 GitHub: [mohsin-ds](https://github.com/mohsin-ds)
 
 ---
